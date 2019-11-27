@@ -1,0 +1,3 @@
+*.csv
+*.npy
+.DS_Store
